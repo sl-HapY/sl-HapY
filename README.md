@@ -40,11 +40,8 @@
 ###
 
 <div align="center">
-  <a href="@sl_HapY" target="_blank">
+  <a href="https://t.me/sl_HapY" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
-  </a>
-  <a href="hapy@mail.ir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
 </div>
 
