@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://s32.picofile.com/file/8482154292/ddd.png"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,6 +35,10 @@
 
 ###
 
+<img align="right" height="150" src="https://s32.picofile.com/file/8482154292/ddd.png"  />
+
+###
+
 <div align="center">
   <a href="@sl_HapY" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
@@ -47,11 +47,5 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sl-HapY/sl-HapY/output/snake.svg" alt="Snake animation" />
 
 ###
